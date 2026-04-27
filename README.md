@@ -1,4 +1,4 @@
-# captcha_solver
+# Emotion Detector
 
 A new Flutter project.
 
